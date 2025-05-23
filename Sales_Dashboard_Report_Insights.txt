@@ -1,0 +1,28 @@
+📄 Superstore Sales Dashboard Report – Summary & Insights
+──────────────────────────────────────────────
+
+🔹 Objective:
+The goal of this task was to design a simple, professional, and interactive sales dashboard using Power BI that presents key performance metrics such as sales by region, product category, and time (month). The dataset used was a customized Superstore Sales dataset containing 320 records with 7 relevant columns, including Order Date, Region, Category, Sales, Profit, Sub-Category, and Shipping Mode.
+
+🔹 Tools Used:
+- Power BI Desktop for visualization and dashboard creation
+- Python for synthetic data generation and preprocessing
+
+🔹 Dashboard Features Implemented:
+1. Line Chart showing Monthly Sales Trend
+2. Bar Chart representing Sales by Region
+3. Donut Chart illustrating Sales by Category
+4. Slicer for Region to enable dynamic filtering across all visuals
+5. Color formatting to highlight high-performing categories and regions
+6. Custom Header with clear layout and alignment
+
+🔹 Insights:
+1. The South region recorded the highest total sales across the year.
+2. The Office Supplies category contributed the most to overall profit.
+3. Sales peaked in Apr-2023, indicating a strong seasonal trend.
+4. Orders shipped via First Class had the highest average profit per order.
+
+✅ Outcome:
+The dashboard provides business stakeholders with an easy-to-understand, visual summary of sales performance. It allows for dynamic exploration of data based on region and category while highlighting key business drivers.
+
+Prepared by: Raj Ramji Jaiswal
